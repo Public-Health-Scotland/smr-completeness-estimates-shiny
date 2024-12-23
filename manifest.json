@@ -61,9 +61,10 @@
         "Packaged": "2021-05-03 08:31:21 UTC; ripley",
         "Author": "Brian Ripley [aut, cre, cph],\n  Bill Venables [ctb],\n  Douglas M. Bates [ctb],\n  Kurt Hornik [trl] (partial port ca 1998),\n  Albrecht Gebhardt [trl] (partial port ca 1998),\n  David Firth [ctb]",
         "Maintainer": "Brian Ripley <ripley@stats.ox.ac.uk>",
-        "Repository": "CRAN",
-        "Date/Publication": "2021-05-03 09:03:25 UTC",
-        "Built": "R 4.1.2; x86_64-pc-linux-gnu; 2022-09-09 17:59:44 UTC; unix"
+        "Repository": "RSPM",
+        "Date/Publication": "2021-05-03 09:03:00 UTC",
+        "Encoding": "UTF-8",
+        "Built": "R 4.1.2; x86_64-pc-linux-gnu; 2024-12-23 12:19:46 UTC; unix"
       }
     },
     "Matrix": {
@@ -94,9 +95,9 @@
         "NeedsCompilation": "yes",
         "Packaged": "2021-05-29 14:45:57 UTC; maechler",
         "Author": "Douglas Bates [aut],\n  Martin Maechler [aut, cre] (<https://orcid.org/0000-0002-8685-9910>),\n  Timothy A. Davis [ctb] (SuiteSparse and 'cs' C libraries, notably\n    CHOLMOD, AMD; collaborators listed in dir(pattern =\n    '^[A-Z]+[.]txt$', full.names=TRUE, system.file('doc',\n    'SuiteSparse', package='Matrix'))),\n  Jens Oehlschlägel [ctb] (initial nearPD()),\n  Jason Riedy [ctb] (condest() and onenormest() for octave, Copyright:\n    Regents of the University of California),\n  R Core Team [ctb] (base R matrix implementation)",
-        "Repository": "CRAN",
+        "Repository": "RSPM",
         "Date/Publication": "2021-06-01 06:10:06 UTC",
-        "Built": "R 4.1.2; x86_64-pc-linux-gnu; 2022-09-09 18:00:02 UTC; unix"
+        "Built": "R 4.1.0; x86_64-pc-linux-gnu; 2021-06-02 22:30:29 UTC; unix"
       }
     },
     "R6": {
@@ -121,7 +122,7 @@
         "Repository": "RSPM",
         "Date/Publication": "2021-08-19 14:00:05 UTC",
         "Encoding": "UTF-8",
-        "Built": "R 4.1.0; ; 2021-11-09 00:29:02 UTC; unix"
+        "Built": "R 4.1.0; ; 2024-05-30 00:44:53 UTC; unix"
       }
     },
     "RColorBrewer": {
@@ -169,14 +170,7 @@
         "Packaged": "2024-07-11 13:00:10 UTC; edd",
         "Repository": "RSPM",
         "Date/Publication": "2024-07-17 15:50:06 UTC",
-        "Built": "R 4.1.0; x86_64-pc-linux-gnu; 2024-07-22 19:53:14 UTC; unix",
-        "RemoteType": "standard",
-        "RemotePkgRef": "Rcpp",
-        "RemoteRef": "Rcpp",
-        "RemoteRepos": "https://ppm.publichealthscotland.org/all-r/__linux__/centos7/latest",
-        "RemoteReposName": "CRAN",
-        "RemotePkgPlatform": "source",
-        "RemoteSha": "1.0.13"
+        "Built": "R 4.1.0; x86_64-pc-linux-gnu; 2024-07-22 19:53:14 UTC; unix"
       }
     },
     "askpass": {
@@ -258,14 +252,7 @@
         "Maintainer": "Carson Sievert <carson@posit.co>",
         "Repository": "RSPM",
         "Date/Publication": "2024-07-29 19:20:02 UTC",
-        "Built": "R 4.1.0; ; 2024-07-30 05:03:35 UTC; unix",
-        "RemoteType": "standard",
-        "RemotePkgRef": "bslib",
-        "RemoteRef": "bslib",
-        "RemoteRepos": "https://ppm.publichealthscotland.org/all-r/__linux__/centos7/latest",
-        "RemoteReposName": "CRAN",
-        "RemotePkgPlatform": "source",
-        "RemoteSha": "0.8.0"
+        "Built": "R 4.1.0; ; 2024-07-30 05:03:35 UTC; unix"
       }
     },
     "cachem": {
@@ -292,14 +279,7 @@
         "Maintainer": "Winston Chang <winston@posit.co>",
         "Repository": "RSPM",
         "Date/Publication": "2024-05-16 09:50:11 UTC",
-        "Built": "R 4.1.0; x86_64-pc-linux-gnu; 2024-05-17 05:17:24 UTC; unix",
-        "RemoteType": "standard",
-        "RemotePkgRef": "cachem",
-        "RemoteRef": "cachem",
-        "RemoteRepos": "https://ppm.publichealthscotland.org/all-r/__linux__/centos7/latest",
-        "RemoteReposName": "CRAN",
-        "RemotePkgPlatform": "source",
-        "RemoteSha": "1.1.0"
+        "Built": "R 4.1.0; x86_64-pc-linux-gnu; 2024-05-17 05:17:24 UTC; unix"
       }
     },
     "cli": {
@@ -356,14 +336,7 @@
         "Maintainer": "Achim Zeileis <Achim.Zeileis@R-project.org>",
         "Repository": "RSPM",
         "Date/Publication": "2024-07-26 17:10:02 UTC",
-        "Built": "R 4.1.0; x86_64-pc-linux-gnu; 2024-07-27 06:28:44 UTC; unix",
-        "RemoteType": "standard",
-        "RemotePkgRef": "colorspace",
-        "RemoteRef": "colorspace",
-        "RemoteRepos": "https://ppm.publichealthscotland.org/all-r/__linux__/centos7/latest",
-        "RemoteReposName": "CRAN",
-        "RemotePkgPlatform": "source",
-        "RemoteSha": "2.1-1"
+        "Built": "R 4.1.0; x86_64-pc-linux-gnu; 2024-07-27 06:28:44 UTC; unix"
       }
     },
     "commonmark": {
@@ -445,13 +418,7 @@
         "Maintainer": "Gábor Csárdi <csardi.gabor@gmail.com>",
         "Repository": "RSPM",
         "Date/Publication": "2024-06-20 13:00:02 UTC",
-        "Built": "R 4.1.0; ; 2024-06-21 04:43:09 UTC; unix",
-        "RemoteType": "standard",
-        "RemotePkgRef": "crayon",
-        "RemoteRef": "crayon",
-        "RemoteRepos": "https://ppm.publichealthscotland.org/all-r/__linux__/centos7/latest",
-        "RemotePkgPlatform": "source",
-        "RemoteSha": "1.5.3"
+        "Built": "R 4.1.0; ; 2024-06-21 04:43:09 UTC; unix"
       }
     },
     "crosstalk": {
@@ -560,14 +527,7 @@
         "Maintainer": "Dirk Eddelbuettel <edd@debian.org>",
         "Repository": "RSPM",
         "Date/Publication": "2024-08-19 14:10:07 UTC",
-        "Built": "R 4.1.0; x86_64-pc-linux-gnu; 2024-08-20 08:02:09 UTC; unix",
-        "RemoteType": "standard",
-        "RemotePkgRef": "digest",
-        "RemoteRef": "digest",
-        "RemoteRepos": "https://ppm.publichealthscotland.org/all-r/__linux__/centos7/latest",
-        "RemoteReposName": "CRAN",
-        "RemotePkgPlatform": "source",
-        "RemoteSha": "0.6.37"
+        "Built": "R 4.1.0; x86_64-pc-linux-gnu; 2024-08-20 08:02:09 UTC; unix"
       }
     },
     "dplyr": {
@@ -680,13 +640,7 @@
         "Maintainer": "Thomas Lin Pedersen <thomas.pedersen@posit.co>",
         "Repository": "RSPM",
         "Date/Publication": "2024-05-13 09:33:09 UTC",
-        "Built": "R 4.1.0; x86_64-pc-linux-gnu; 2024-05-14 04:51:27 UTC; unix",
-        "RemoteType": "standard",
-        "RemotePkgRef": "farver",
-        "RemoteRef": "farver",
-        "RemoteRepos": "https://ppm.publichealthscotland.org/all-r/__linux__/centos7/latest",
-        "RemotePkgPlatform": "source",
-        "RemoteSha": "2.1.2"
+        "Built": "R 4.1.0; x86_64-pc-linux-gnu; 2024-05-14 04:51:27 UTC; unix"
       }
     },
     "fastmap": {
@@ -710,13 +664,7 @@
         "Maintainer": "Winston Chang <winston@posit.co>",
         "Repository": "RSPM",
         "Date/Publication": "2024-05-15 09:00:07 UTC",
-        "Built": "R 4.1.0; x86_64-pc-linux-gnu; 2024-05-16 04:56:45 UTC; unix",
-        "RemoteType": "standard",
-        "RemotePkgRef": "fastmap",
-        "RemoteRef": "fastmap",
-        "RemoteRepos": "https://ppm.publichealthscotland.org/all-r/__linux__/centos7/latest",
-        "RemotePkgPlatform": "source",
-        "RemoteSha": "1.2.0"
+        "Built": "R 4.1.0; x86_64-pc-linux-gnu; 2024-05-16 04:56:45 UTC; unix"
       }
     },
     "fontawesome": {
@@ -806,13 +754,7 @@
         "Maintainer": "Hadley Wickham <hadley@rstudio.com>",
         "Repository": "RSPM",
         "Date/Publication": "2022-07-05 19:40:02 UTC",
-        "Built": "R 4.1.0; ; 2022-07-06 11:22:18 UTC; unix",
-        "RemoteType": "standard",
-        "RemotePkgRef": "generics",
-        "RemoteRef": "generics",
-        "RemoteRepos": "https://ppm.publichealthscotland.org/all-r/__linux__/centos7/latest",
-        "RemotePkgPlatform": "source",
-        "RemoteSha": "0.1.3"
+        "Built": "R 4.1.0; ; 2022-07-06 11:22:18 UTC; unix"
       }
     },
     "ggplot2": {
@@ -932,14 +874,7 @@
         "Maintainer": "Yihui Xie <xie@yihui.name>",
         "Repository": "RSPM",
         "Date/Publication": "2024-05-26 20:00:03 UTC",
-        "Built": "R 4.1.0; ; 2024-05-27 04:39:37 UTC; unix",
-        "RemoteType": "standard",
-        "RemotePkgRef": "highr",
-        "RemoteRef": "highr",
-        "RemoteRepos": "https://ppm.publichealthscotland.org/all-r/__linux__/centos7/latest",
-        "RemoteReposName": "CRAN",
-        "RemotePkgPlatform": "source",
-        "RemoteSha": "0.11"
+        "Built": "R 4.1.0; ; 2024-05-27 04:39:37 UTC; unix"
       }
     },
     "htmltools": {
@@ -1028,7 +963,7 @@
         "Maintainer": "Winston Chang <winston@posit.co>",
         "Repository": "RSPM",
         "Date/Publication": "2024-03-26 05:50:06 UTC",
-        "Built": "R 4.1.0; x86_64-pc-linux-gnu; 2024-03-27 04:47:04 UTC; unix"
+        "Built": "R 4.1.0; x86_64-pc-linux-gnu; 2024-11-28 05:05:11 UTC; unix"
       }
     },
     "httr": {
@@ -1056,13 +991,7 @@
         "Maintainer": "Hadley Wickham <hadley@posit.co>",
         "Repository": "RSPM",
         "Date/Publication": "2023-08-15 09:00:02 UTC",
-        "Built": "R 4.1.0; ; 2023-08-16 11:50:33 UTC; unix",
-        "RemoteType": "standard",
-        "RemotePkgRef": "httr",
-        "RemoteRef": "httr",
-        "RemoteRepos": "https://ppm.publichealthscotland.org/all-r/__linux__/centos7/latest",
-        "RemotePkgPlatform": "source",
-        "RemoteSha": "1.4.7"
+        "Built": "R 4.1.0; ; 2023-08-16 11:50:33 UTC; unix"
       }
     },
     "isoband": {
@@ -1171,14 +1100,7 @@
         "Maintainer": "Yihui Xie <xie@yihui.name>",
         "Repository": "RSPM",
         "Date/Publication": "2024-07-07 14:00:01 UTC",
-        "Built": "R 4.1.0; ; 2024-07-08 04:48:21 UTC; unix",
-        "RemoteType": "standard",
-        "RemotePkgRef": "knitr",
-        "RemoteRef": "knitr",
-        "RemoteRepos": "https://ppm.publichealthscotland.org/all-r/__linux__/centos7/latest",
-        "RemoteReposName": "CRAN",
-        "RemotePkgPlatform": "source",
-        "RemoteSha": "1.48"
+        "Built": "R 4.1.0; ; 2024-07-08 04:48:21 UTC; unix"
       }
     },
     "labeling": {
@@ -1229,7 +1151,7 @@
         "Maintainer": "Winston Chang <winston@posit.co>",
         "Repository": "RSPM",
         "Date/Publication": "2023-12-06 09:10:05 UTC",
-        "Built": "R 4.1.0; x86_64-pc-linux-gnu; 2023-12-07 12:21:16 UTC; unix"
+        "Built": "R 4.1.0; x86_64-pc-linux-gnu; 2024-11-03 15:54:18 UTC; unix"
       }
     },
     "lattice": {
@@ -1259,13 +1181,7 @@
         "Repository": "RSPM",
         "Date/Publication": "2024-03-20 06:10:02 UTC",
         "Encoding": "UTF-8",
-        "Built": "R 4.1.0; x86_64-pc-linux-gnu; 2024-03-21 05:49:14 UTC; unix",
-        "RemoteType": "standard",
-        "RemotePkgRef": "lattice",
-        "RemoteRef": "lattice",
-        "RemoteRepos": "https://ppm.publichealthscotland.org/all-r/__linux__/centos7/latest",
-        "RemotePkgPlatform": "source",
-        "RemoteSha": "0.22-6"
+        "Built": "R 4.1.0; x86_64-pc-linux-gnu; 2024-03-21 05:49:14 UTC; unix"
       }
     },
     "lazyeval": {
@@ -1353,14 +1269,7 @@
         "Author": "Vitalie Spinu [aut, cre],\n  Garrett Grolemund [aut],\n  Hadley Wickham [aut],\n  Davis Vaughan [ctb],\n  Ian Lyttle [ctb],\n  Imanuel Costigan [ctb],\n  Jason Law [ctb],\n  Doug Mitarotonda [ctb],\n  Joseph Larmarange [ctb],\n  Jonathan Boiser [ctb],\n  Chel Hee Lee [ctb]",
         "Repository": "RSPM",
         "Date/Publication": "2024-12-08 12:10:02 UTC",
-        "Built": "R 4.1.0; x86_64-pc-linux-gnu; 2024-12-09 06:59:14 UTC; unix",
-        "RemoteType": "standard",
-        "RemotePkgRef": "lubridate",
-        "RemoteRef": "lubridate",
-        "RemoteRepos": "https://ppm.publichealthscotland.org/all-r/__linux__/centos7/latest",
-        "RemoteReposName": "CRAN",
-        "RemotePkgPlatform": "source",
-        "RemoteSha": "1.9.4"
+        "Built": "R 4.1.0; x86_64-pc-linux-gnu; 2024-12-09 06:59:14 UTC; unix"
       }
     },
     "magrittr": {
@@ -1372,7 +1281,7 @@
         "Title": "A Forward-Pipe Operator for R",
         "Version": "2.0.3",
         "Authors@R": "c(\n    person(\"Stefan Milton\", \"Bache\", , \"stefan@stefanbache.dk\", role = c(\"aut\", \"cph\"),\n           comment = \"Original author and creator of magrittr\"),\n    person(\"Hadley\", \"Wickham\", , \"hadley@rstudio.com\", role = \"aut\"),\n    person(\"Lionel\", \"Henry\", , \"lionel@rstudio.com\", role = \"cre\"),\n    person(\"RStudio\", role = c(\"cph\", \"fnd\"))\n  )",
-        "Description": "Provides a mechanism for chaining commands with a new\n    forward-pipe operator, |>. This operator will forward a value, or the\n    result of an expression, into the next function call/expression.\n    There is flexible support for the type of right-hand side expressions.\n    For more information, see package vignette.  To quote Rene Magritte,\n    \"Ceci n'est pas un pipe.\"",
+        "Description": "Provides a mechanism for chaining commands with a new\n    forward-pipe operator, %>%. This operator will forward a value, or the\n    result of an expression, into the next function call/expression.\n    There is flexible support for the type of right-hand side expressions.\n    For more information, see package vignette.  To quote Rene Magritte,\n    \"Ceci n'est pas un pipe.\"",
         "License": "MIT + file LICENSE",
         "URL": "https://magrittr.tidyverse.org,\nhttps://github.com/tidyverse/magrittr",
         "BugReports": "https://github.com/tidyverse/magrittr/issues",
@@ -1439,13 +1348,7 @@
         "Repository": "RSPM",
         "Date/Publication": "2023-12-21 00:30:02 UTC",
         "Encoding": "UTF-8",
-        "Built": "R 4.1.0; x86_64-pc-linux-gnu; 2023-12-22 12:43:27 UTC; unix",
-        "RemoteType": "standard",
-        "RemotePkgRef": "mgcv",
-        "RemoteRef": "mgcv",
-        "RemoteRepos": "https://ppm.publichealthscotland.org/all-r/__linux__/centos7/latest",
-        "RemotePkgPlatform": "source",
-        "RemoteSha": "1.9-1"
+        "Built": "R 4.1.0; x86_64-pc-linux-gnu; 2023-12-22 12:43:27 UTC; unix"
       }
     },
     "mime": {
@@ -1557,63 +1460,74 @@
       }
     },
     "phsopendata": {
-      "Source": "RSPM",
+      "Source": "github",
       "Repository": null,
       "description": {
         "Package": "phsopendata",
         "Title": "Extract Open Data from opendata.nhs.scot",
+        "Version": "0.3.0",
         "Authors@R": "c(\n    person(\"Public Health Scotland\", , , \"phs.datascience@phs.scot\", role = \"cph\"),\n    person(\"Csilla\", \"Scharle\", , \"csilla.scharle2@phs.scot\", role = c(\"aut\", \"cre\")),\n    person(\"James\", \"McMahon\", , \"james.mcmahon@phs.scot\", role = \"aut\"),\n    person(\"David\", \"Aikman\", , \"david.aikman@phs.scot\", role = \"aut\"),\n    person(\"Ross\", \"Hull\", , \"ross.hull2@phs.scot\", role = \"aut\")\n  )",
         "Description": "Functions to extract and interact with data from the Scottish\n    Health and Social Care Open Data platform.",
         "License": "GPL (>= 2)",
         "URL": "https://github.com/Public-Health-Scotland/phsopendata,\nhttps://public-health-scotland.github.io/phsopendata/",
         "BugReports": "https://github.com/Public-Health-Scotland/phsopendata/issues",
-        "Imports": "cli (>= 3.2.0), dplyr (>= 1.0.0), httr (>= 1.0.0), magrittr\n(>= 1.0.0), purrr (>= 1.0.0), rlang (>= 1.0.0), stringdist,\ntibble (>= 3.0.0)",
-        "Suggests": "covr, jsonlite (>= 1.1), readr (>= 1.0.0), testthat (>=\n3.0.0), xml2",
+        "Imports": "cli (>= 3.2.0),\ndplyr (>= 1.0.0),\nhttr (>= 1.0.0),\nmagrittr (>= 1.0.0),\npurrr (>= 1.0.0),\nrlang (>= 1.0.0),\nstringdist,\ntibble (>= 3.0.0)",
+        "Suggests": "covr,\njsonlite (>= 1.1),\nreadr (>= 1.0.0),\ntestthat (>= 3.0.0),\nxml2",
         "Config/testthat/edition": "3",
         "Config/testthat/parallel": "true",
         "Encoding": "UTF-8",
+        "LazyData": "true",
         "Roxygen": "list(markdown = TRUE)",
         "RoxygenNote": "7.3.2",
-        "Repository": "RSPM",
-        "RemoteSha": "e383229dbf298d6e3bc52439ce40ea995b80cf47",
-        "Version": "0.3.0.0.0.0.1734513136",
-        "Date": "2024-12-18",
-        "Date/Publication": "2024-12-18 09:12:16 UTC",
-        "NeedsCompilation": "no",
-        "Packaged": "2024-12-18 09:16:28 UTC; root",
         "Author": "Public Health Scotland [cph],\n  Csilla Scharle [aut, cre],\n  James McMahon [aut],\n  David Aikman [aut],\n  Ross Hull [aut]",
         "Maintainer": "Csilla Scharle <csilla.scharle2@phs.scot>",
-        "Built": "R 4.1.2; ; 2024-12-23 11:40:25 UTC; unix"
+        "Built": "R 4.1.2; ; 2024-12-23 12:36:27 UTC; unix",
+        "RemoteType": "github",
+        "RemoteHost": "api.github.com",
+        "RemoteUsername": "Public-Health-Scotland",
+        "RemoteRepo": "phsopendata",
+        "RemoteRef": "master",
+        "RemoteSha": "e383229dbf298d6e3bc52439ce40ea995b80cf47",
+        "GithubHost": "api.github.com",
+        "GithubRepo": "phsopendata",
+        "GithubUsername": "Public-Health-Scotland",
+        "GithubRef": "master",
+        "GithubSHA1": "e383229dbf298d6e3bc52439ce40ea995b80cf47"
       }
     },
     "phsstyles": {
-      "Source": "RSPM",
+      "Source": "github",
       "Repository": null,
       "description": {
         "Package": "phsstyles",
         "Title": "Standard Graphic Styles for use in Public Health Scotland",
+        "Version": "0.1.2",
         "Authors@R": "c(\n    person(\"Tina\", \"Fu\", email = \"Yuyan.Fu2@phs.scot\", role = c(\"aut\", \"cre\")), \n    person(\"Bob\", \"Taylor\", email = \"bob.taylor2@phs.scot\", role = \"aut\")\n    )",
         "Description": "Bespoke functions for creating graphics and visualisations in Public Health Scotland.",
         "License": "MIT + file LICENSE",
-        "URL": "https://github.com/Public-Health-Scotland/phsstyles,\nhttps://public-health-scotland.github.io/phsstyles/",
+        "URL": "https://github.com/Public-Health-Scotland/phsstyles, https://public-health-scotland.github.io/phsstyles/",
         "BugReports": "https://github.com/Public-Health-Scotland/phsstyles/issues",
         "Depends": "R (>= 2.10)",
-        "Imports": "ggplot2, scales",
+        "Imports": "ggplot2,\nscales",
         "Suggests": "testthat (>= 3.0.0)",
         "Encoding": "UTF-8",
         "Roxygen": "list(markdown = TRUE)",
         "RoxygenNote": "7.3.1",
         "Config/testthat/edition": "3",
-        "Repository": "RSPM",
-        "RemoteSha": "e7127a0fd2b407be27e0c2e16f5a89760435cf97",
-        "Version": "0.1.2.0.0.0.1723562247",
-        "Date": "2024-08-13",
-        "Date/Publication": "2024-08-13 15:17:27 UTC",
-        "NeedsCompilation": "no",
-        "Packaged": "2024-08-13 15:21:36 UTC; root",
         "Author": "Tina Fu [aut, cre],\n  Bob Taylor [aut]",
         "Maintainer": "Tina Fu <Yuyan.Fu2@phs.scot>",
-        "Built": "R 4.1.2; ; 2024-08-28 13:38:05 UTC; unix"
+        "Built": "R 4.1.2; ; 2024-12-23 12:37:29 UTC; unix",
+        "RemoteType": "github",
+        "RemoteHost": "api.github.com",
+        "RemoteUsername": "Public-Health-Scotland",
+        "RemoteRepo": "phsstyles",
+        "RemoteRef": "master",
+        "RemoteSha": "e7127a0fd2b407be27e0c2e16f5a89760435cf97",
+        "GithubHost": "api.github.com",
+        "GithubRepo": "phsstyles",
+        "GithubUsername": "Public-Health-Scotland",
+        "GithubRef": "master",
+        "GithubSHA1": "e7127a0fd2b407be27e0c2e16f5a89760435cf97"
       }
     },
     "pillar": {
@@ -1728,7 +1642,7 @@
         "Maintainer": "Joe Cheng <joe@posit.co>",
         "Repository": "RSPM",
         "Date/Publication": "2024-04-05 15:00:06 UTC",
-        "Built": "R 4.1.0; x86_64-pc-linux-gnu; 2024-04-06 04:42:11 UTC; unix"
+        "Built": "R 4.1.0; x86_64-pc-linux-gnu; 2024-11-03 15:57:12 UTC; unix"
       }
     },
     "purrr": {
@@ -1759,7 +1673,7 @@
         "Maintainer": "Hadley Wickham <hadley@rstudio.com>",
         "Repository": "RSPM",
         "Date/Publication": "2023-08-10 08:20:07 UTC",
-        "Built": "R 4.1.0; x86_64-pc-linux-gnu; 2023-12-12 11:50:45 UTC; unix"
+        "Built": "R 4.1.0; x86_64-pc-linux-gnu; 2024-06-22 05:16:50 UTC; unix"
       }
     },
     "rappdirs": {
@@ -1849,14 +1763,7 @@
         "Maintainer": "Lionel Henry <lionel@posit.co>",
         "Repository": "RSPM",
         "Date/Publication": "2024-06-04 09:45:03 UTC",
-        "Built": "R 4.1.0; x86_64-pc-linux-gnu; 2024-06-05 17:48:45 UTC; unix",
-        "RemoteType": "standard",
-        "RemotePkgRef": "rlang",
-        "RemoteRef": "rlang",
-        "RemoteRepos": "https://ppm.publichealthscotland.org/all-r/__linux__/centos7/latest",
-        "RemoteReposName": "CRAN",
-        "RemotePkgPlatform": "source",
-        "RemoteSha": "1.1.4"
+        "Built": "R 4.1.0; x86_64-pc-linux-gnu; 2024-06-05 17:48:45 UTC; unix"
       }
     },
     "rmarkdown": {
@@ -1887,14 +1794,7 @@
         "Author": "JJ Allaire [aut],\n  Yihui Xie [aut, cre] (<https://orcid.org/0000-0003-0645-5666>),\n  Christophe Dervieux [aut] (<https://orcid.org/0000-0003-4474-2498>),\n  Jonathan McPherson [aut],\n  Javier Luraschi [aut],\n  Kevin Ushey [aut],\n  Aron Atkins [aut],\n  Hadley Wickham [aut],\n  Joe Cheng [aut],\n  Winston Chang [aut],\n  Richard Iannone [aut] (<https://orcid.org/0000-0003-3925-190X>),\n  Andrew Dunning [ctb] (<https://orcid.org/0000-0003-0464-5036>),\n  Atsushi Yasumoto [ctb, cph] (<https://orcid.org/0000-0002-8335-495X>,\n    Number sections Lua filter),\n  Barret Schloerke [ctb],\n  Carson Sievert [ctb] (<https://orcid.org/0000-0002-4958-2844>),\n  Devon Ryan [ctb] (<https://orcid.org/0000-0002-8549-0971>),\n  Frederik Aust [ctb] (<https://orcid.org/0000-0003-4900-788X>),\n  Jeff Allen [ctb],\n  JooYoung Seo [ctb] (<https://orcid.org/0000-0002-4064-6012>),\n  Malcolm Barrett [ctb],\n  Rob Hyndman [ctb],\n  Romain Lesur [ctb],\n  Roy Storey [ctb],\n  Ruben Arslan [ctb],\n  Sergio Oller [ctb],\n  Posit Software, PBC [cph, fnd],\n  jQuery UI contributors [ctb, cph] (jQuery UI library; authors listed in\n    inst/rmd/h/jqueryui/AUTHORS.txt),\n  Mark Otto [ctb] (Bootstrap library),\n  Jacob Thornton [ctb] (Bootstrap library),\n  Bootstrap contributors [ctb] (Bootstrap library),\n  Twitter, Inc [cph] (Bootstrap library),\n  Alexander Farkas [ctb, cph] (html5shiv library),\n  Scott Jehl [ctb, cph] (Respond.js library),\n  Ivan Sagalaev [ctb, cph] (highlight.js library),\n  Greg Franko [ctb, cph] (tocify library),\n  John MacFarlane [ctb, cph] (Pandoc templates),\n  Google, Inc. [ctb, cph] (ioslides library),\n  Dave Raggett [ctb] (slidy library),\n  W3C [cph] (slidy library),\n  Dave Gandy [ctb, cph] (Font-Awesome),\n  Ben Sperry [ctb] (Ionicons),\n  Drifty [cph] (Ionicons),\n  Aidan Lister [ctb, cph] (jQuery StickyTabs),\n  Benct Philip Jonsson [ctb, cph] (pagebreak Lua filter),\n  Albert Krewinkel [ctb, cph] (pagebreak Lua filter)",
         "Repository": "RSPM",
         "Date/Publication": "2024-08-17 04:50:13 UTC",
-        "Built": "R 4.1.0; ; 2024-08-18 05:32:09 UTC; unix",
-        "RemoteType": "standard",
-        "RemotePkgRef": "rmarkdown",
-        "RemoteRef": "rmarkdown",
-        "RemoteRepos": "https://ppm.publichealthscotland.org/all-r/__linux__/centos7/latest",
-        "RemoteReposName": "CRAN",
-        "RemotePkgPlatform": "source",
-        "RemoteSha": "2.28"
+        "Built": "R 4.1.0; ; 2024-08-18 05:32:09 UTC; unix"
       }
     },
     "sass": {
@@ -2034,14 +1934,7 @@
         "Repository": "RSPM",
         "Date/Publication": "2021-09-30 12:10:06 UTC",
         "Encoding": "UTF-8",
-        "Built": "R 4.1.0; ; 2021-10-02 01:36:17 UTC; unix",
-        "RemoteType": "standard",
-        "RemotePkgRef": "shinydashboard",
-        "RemoteRef": "shinydashboard",
-        "RemoteRepos": "https://ppm.publichealthscotland.org/all-r/__linux__/centos7/latest",
-        "RemoteReposName": "CRAN",
-        "RemotePkgPlatform": "source",
-        "RemoteSha": "0.7.2"
+        "Built": "R 4.1.0; ; 2021-10-02 01:36:17 UTC; unix"
       }
     },
     "sourcetools": {
@@ -2065,13 +1958,7 @@
         "Packaged": "2023-01-31 18:03:04 UTC; kevin",
         "Repository": "RSPM",
         "Date/Publication": "2023-02-01 10:10:02 UTC",
-        "Built": "R 4.1.0; x86_64-pc-linux-gnu; 2023-02-02 18:59:11 UTC; unix",
-        "RemoteType": "standard",
-        "RemotePkgRef": "sourcetools",
-        "RemoteRef": "sourcetools",
-        "RemoteRepos": "https://ppm.publichealthscotland.org/all-r/__linux__/centos7/latest",
-        "RemotePkgPlatform": "source",
-        "RemoteSha": "0.1.7-1"
+        "Built": "R 4.1.0; x86_64-pc-linux-gnu; 2023-02-02 18:59:11 UTC; unix"
       }
     },
     "stringdist": {
@@ -2099,14 +1986,7 @@
         "Author": "Mark van der Loo [aut, cre] (<https://orcid.org/0000-0002-9807-4686>),\n  Jan van der Laan [ctb],\n  R Core Team [ctb],\n  Nick Logan [ctb],\n  Chris Muir [ctb],\n  Johannes Gruber [ctb],\n  Brian Ripley [ctb]",
         "Repository": "RSPM",
         "Date/Publication": "2024-12-10 08:40:02 UTC",
-        "Built": "R 4.1.0; x86_64-pc-linux-gnu; 2024-12-11 05:15:06 UTC; unix",
-        "RemoteType": "standard",
-        "RemotePkgRef": "stringdist",
-        "RemoteRef": "stringdist",
-        "RemoteRepos": "https://ppm.publichealthscotland.org/all-r/__linux__/centos7/latest",
-        "RemoteReposName": "CRAN",
-        "RemotePkgPlatform": "source",
-        "RemoteSha": "0.9.14"
+        "Built": "R 4.1.0; x86_64-pc-linux-gnu; 2024-12-11 05:15:06 UTC; unix"
       }
     },
     "stringi": {
@@ -2135,14 +2015,7 @@
         "License_is_FOSS": "yes",
         "Repository": "RSPM",
         "Date/Publication": "2024-05-06 15:00:02 UTC",
-        "Built": "R 4.1.0; x86_64-pc-linux-gnu; 2024-05-07 05:01:19 UTC; unix",
-        "RemoteType": "standard",
-        "RemotePkgRef": "stringi",
-        "RemoteRef": "stringi",
-        "RemoteRepos": "https://ppm.publichealthscotland.org/all-r/__linux__/centos7/latest",
-        "RemoteReposName": "CRAN",
-        "RemotePkgPlatform": "source",
-        "RemoteSha": "1.8.4"
+        "Built": "R 4.1.0; x86_64-pc-linux-gnu; 2024-05-07 05:01:19 UTC; unix"
       }
     },
     "stringr": {
@@ -2263,7 +2136,7 @@
         "Maintainer": "Hadley Wickham <hadley@posit.co>",
         "Repository": "RSPM",
         "Date/Publication": "2024-01-24 14:50:09 UTC",
-        "Built": "R 4.1.0; x86_64-pc-linux-gnu; 2024-01-25 12:36:11 UTC; unix"
+        "Built": "R 4.1.0; x86_64-pc-linux-gnu; 2024-12-05 05:15:02 UTC; unix"
       }
     },
     "tidyselect": {
@@ -2320,7 +2193,7 @@
         "Maintainer": "Vitalie Spinu <spinuvit@gmail.com>",
         "Repository": "RSPM",
         "Date/Publication": "2024-01-18 09:20:02 UTC",
-        "Built": "R 4.1.0; x86_64-pc-linux-gnu; 2024-01-19 13:12:47 UTC; unix"
+        "Built": "R 4.1.0; x86_64-pc-linux-gnu; 2024-12-05 05:14:27 UTC; unix"
       }
     },
     "tinytex": {
@@ -2514,13 +2387,7 @@
         "Author": "David B. Dahl [aut],\n  David Scott [aut, cre],\n  Charles Roosen [aut],\n  Arni Magnusson [aut],\n  Jonathan Swinton [aut],\n  Ajay Shah [ctb],\n  Arne Henningsen [ctb],\n  Benno Puetz [ctb],\n  Bernhard Pfaff [ctb],\n  Claudio Agostinelli [ctb],\n  Claudius Loehnert [ctb],\n  David Mitchell [ctb],\n  David Whiting [ctb],\n  Fernando da Rosa [ctb],\n  Guido Gay [ctb],\n  Guido Schulz [ctb],\n  Ian Fellows [ctb],\n  Jeff Laake [ctb],\n  John Walker [ctb],\n  Jun Yan [ctb],\n  Liviu Andronic [ctb],\n  Markus Loecher [ctb],\n  Martin Gubri [ctb],\n  Matthieu Stigler [ctb],\n  Robert Castelo [ctb],\n  Seth Falcon [ctb],\n  Stefan Edwards [ctb],\n  Sven Garbade [ctb],\n  Uwe Ligges [ctb]",
         "Date/Publication": "2019-04-21 12:20:03 UTC",
         "Encoding": "UTF-8",
-        "Built": "R 4.1.0; ; 2021-05-19 01:27:45 UTC; unix",
-        "RemoteType": "standard",
-        "RemotePkgRef": "xtable",
-        "RemoteRef": "xtable",
-        "RemoteRepos": "https://ppm.publichealthscotland.org/all-r/__linux__/centos7/latest",
-        "RemotePkgPlatform": "source",
-        "RemoteSha": "1.8-4"
+        "Built": "R 4.1.0; ; 2021-05-19 01:27:45 UTC; unix"
       }
     },
     "yaml": {
@@ -2544,50 +2411,37 @@
         "Repository": "RSPM",
         "Date/Publication": "2024-07-26 15:10:02 UTC",
         "Encoding": "UTF-8",
-        "Built": "R 4.1.0; x86_64-pc-linux-gnu; 2024-07-27 06:28:41 UTC; unix",
-        "RemoteType": "standard",
-        "RemotePkgRef": "yaml",
-        "RemoteRef": "yaml",
-        "RemoteRepos": "https://ppm.publichealthscotland.org/all-r/__linux__/centos7/latest",
-        "RemoteReposName": "CRAN",
-        "RemotePkgPlatform": "source",
-        "RemoteSha": "2.3.10"
+        "Built": "R 4.1.0; x86_64-pc-linux-gnu; 2024-07-27 06:28:41 UTC; unix"
       }
     }
   },
   "files": {
     ".Rprofile": {
-      "checksum": "adab5b593ff568a299b3e0b705698c91"
+      "checksum": "2f8518a35b42f1e610fffa1ec8d614ec"
     },
     "app.R": {
-      "checksum": "77b1550a1a8ee7a7a12a11290621108c"
+      "checksum": "eec00306a25097e5d2106d6b888a0dfc"
     },
     "functions/core_functions.R": {
-      "checksum": "bf4ee951256b00dba9fedb2b1e1792c6"
+      "checksum": "51d669c789a4d5346056b8e26ba42606"
     },
     "functions/intro_page_functions.R": {
-      "checksum": "68b329da9893e34099c7d8ad5cb9c940"
-    },
-    "functions/page_1_functions.R": {
-      "checksum": "d1637f44cf21f34fab410434a1e61970"
+      "checksum": "d41d8cd98f00b204e9800998ecf8427e"
     },
     "pages/contact_page.R": {
-      "checksum": "e5bb97bc83ad53bca93beb289e45f52e"
+      "checksum": "05c298d0bde14de69c5d0a79cbec9d39"
     },
     "pages/intro_page.R": {
-      "checksum": "adfe73e47ab0f32eff7b7eb0cc283631"
-    },
-    "pages/page_1.R": {
-      "checksum": "6c947d673515f48ad10342ebab3901a2"
+      "checksum": "4f8626686fae28551230a846f9a5be0f"
     },
     "README.md": {
       "checksum": "562aae24c1c6605bf98b4f930866e443"
     },
     "renv.lock": {
-      "checksum": "de72292f3b894b8ff4ebe6e3869e0328"
+      "checksum": "ff38214993ce0fd1cc8b83f4791af951"
     },
     "setup.R": {
-      "checksum": "28f5037722983f15190c4ffbce479fac"
+      "checksum": "725080609b29993faebc1c997f58db9b"
     },
     "www/favicon_phs.ico": {
       "checksum": "0a805076378fa482bc5751930156e202"
