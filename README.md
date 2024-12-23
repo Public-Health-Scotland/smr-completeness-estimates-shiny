@@ -1,4 +1,4 @@
-# SMR Completness Estimates
+# SMR Completeness Estimates
 
 This app was created using the PHS Shiny app template from the [`{phstemplates}`](https://public-health-scotland.github.io/phstemplates/) package.
 
